@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingHKftpService", "CheckingHKftpService\CheckingHKftpService.csproj", "{756B9EEB-ACBC-42FE-972F-0C05C8CA6AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceClient", "WindowsServiceClient\WindowsServiceClient.csproj", "{B9C25DF6-1E00-4801-A135-4929C51480BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormChecking", "FormChecking\FormChecking.csproj", "{762D92E2-10D2-4494-B513-8CC0C7451B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTest", "ServiceTest\ServiceTest.csproj", "{56EF94AB-B515-4536-84FF-87A366730FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756B9EEB-ACBC-42FE-972F-0C05C8CA6AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756B9EEB-ACBC-42FE-972F-0C05C8CA6AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756B9EEB-ACBC-42FE-972F-0C05C8CA6AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756B9EEB-ACBC-42FE-972F-0C05C8CA6AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C25DF6-1E00-4801-A135-4929C51480BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C25DF6-1E00-4801-A135-4929C51480BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C25DF6-1E00-4801-A135-4929C51480BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C25DF6-1E00-4801-A135-4929C51480BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762D92E2-10D2-4494-B513-8CC0C7451B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762D92E2-10D2-4494-B513-8CC0C7451B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762D92E2-10D2-4494-B513-8CC0C7451B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762D92E2-10D2-4494-B513-8CC0C7451B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56EF94AB-B515-4536-84FF-87A366730FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EF94AB-B515-4536-84FF-87A366730FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EF94AB-B515-4536-84FF-87A366730FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EF94AB-B515-4536-84FF-87A366730FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C336E85F-C144-48A7-AC30-896272A4F0DA}
+	EndGlobalSection
+EndGlobal

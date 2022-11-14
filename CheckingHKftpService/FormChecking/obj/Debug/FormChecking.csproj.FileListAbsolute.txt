@@ -1,0 +1,12 @@
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.Form1.resources
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.Properties.Resources.resources
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.csproj.GenerateResource.cache
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.csproj.CoreCompileInputs.cache
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\bin\Debug\log4net.config
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\bin\Debug\FormChecking.exe.config
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\bin\Debug\FormChecking.exe
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\bin\Debug\FormChecking.pdb
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\bin\Debug\log4net.dll
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.csproj.CopyComplete
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.exe
+C:\项目列表\雅戈尔项目\雅戈尔图片加文字程序\定时清理图片\CheckingHKftp\CheckingHKftpService\FormChecking\obj\Debug\FormChecking.pdb

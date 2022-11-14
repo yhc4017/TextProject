@@ -1,0 +1,16 @@
+Time(时间):    2021-07-05 16:26:17:9212
+Action(方法名称):    ExecuteSqlTran
+Message(消息主体)：   违反了 PRIMARY KEY 约束“PK_TaskLocationInfo”。不能在对象“dbo.TaskLocationInfo”中插入重复键。重复键值为 (H14379, ALAPL, 2000149408086       , JH20703223)。
+语句已终止。
+StackTrace(堆栈信息):       在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 HYESOFT.EDI.WebApi.Common.DbHelperSQL.ExecuteSqlTran(List`1 SQLStringList) 位置 D:\2021项目\武汉分拣小车改版绑定三单\服务程序\ImportDataService\ServiceTest\DBHelper.cs:行号 129
+-----------------------------------------------------------
+
+
+
